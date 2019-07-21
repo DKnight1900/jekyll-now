@@ -15,7 +15,7 @@ avatar: http://ww1.sinaimg.cn/thumb300/682c66bbjw1er6r3g3ex5j207t09wglw.jpg
 #
 # Flags below are optional
 #
-
+remote_theme: TaylanTatli/Moon
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
